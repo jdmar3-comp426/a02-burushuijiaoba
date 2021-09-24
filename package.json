@@ -11,12 +11,13 @@
     "url": "git+https://github.com/jdmar3-comp426/a02-burushuijiaoba.git"
   },
   "author": "Yijia Wang",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-burushuijiaoba/issues"
   },
   "homepage": "https://github.com/jdmar3-comp426/a02-burushuijiaoba#readme",
   "dependencies": {
     "bulma": "^0.9.3"
-  }
+  },
+  "devDependencies": {}
 }
